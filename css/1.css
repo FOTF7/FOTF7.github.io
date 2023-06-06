@@ -1,0 +1,34 @@
+.fof{
+    background-color:pink;
+    font-size:25px
+}
+.margin-block{
+    margin-top:50px;
+    font-size:25px;
+}
+.art{
+    background-color:#DC143C;
+}
+.size{
+    font-size:25px;
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+.space{
+    text-align: center;
+}
+body{
+    background:grey;
+}
+header{
+    position:fixed;
+    padding: 10px 5%;
+    background-color:darkblue;
+    color: white;
+    left:0px;
+    top:0px;
+    width:100%;
